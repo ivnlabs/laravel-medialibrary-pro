@@ -18,7 +18,7 @@
         "php": "^8.0",
         "ext-json": "*",
         "illuminate/validation": "^10.0",
-        "spatie/laravel-medialibrary": "^10.2",
+        "spatie/laravel-medialibrary": "*",
         "symfony/mime": "^6.0"
     },
     "require-dev": {
